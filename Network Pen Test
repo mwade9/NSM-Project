@@ -1,0 +1,4 @@
+Connected device to scan networks in the area.
+Used Wifite script to put network adapter into promiscuous mode using ifconfig elh21 promisc.
+Deauthenticated users on wifi network, captured handshake, then attempted to crack the password using a dictionary attack. 
+Eventually going to run commands one by one.
