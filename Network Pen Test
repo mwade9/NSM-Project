@@ -1,4 +1,5 @@
 Connected network adapter device to scan networks in the area.
 Used Wifite script to put network adapter into promiscuous mode using ifconfig elh21 promisc.
-Deauthenticated users on wifi network, captured handshake, then attempted to crack the password using a dictionary attack. 
+Deauthenticated users on wifi network, captured handshake, then attempted to crack the password using a dictionary attack.
+The word list used was not able to crack the password from the handshake because there was not enough password combinations to guess the password. 
 Eventually going to run commands one by one.
